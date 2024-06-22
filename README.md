@@ -5,3 +5,4 @@ Practice guessing square colors
 2. python chess.py
 
 "b" for black and "w" for white
+"r" to repeat square name
